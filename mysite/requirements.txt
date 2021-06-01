@@ -61,7 +61,7 @@ python-crontab==2.5.1
 python-dateutil==2.8.1
 python-xlib==0.28
 pytz==2021.1
-pywin32==228
+
 redis==3.5.3
 requests==2.25.0
 requests-toolbelt==0.9.1
